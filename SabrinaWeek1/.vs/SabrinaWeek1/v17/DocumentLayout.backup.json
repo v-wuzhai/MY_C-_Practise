@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-wwanmohdna\\source\\repos\\SabrinaWeek1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C0FEC0-6745-4A22-B560-14E278E80856}|SabrinaWeek1\\Homework.csproj|c:\\users\\v-wwanmohdna\\source\\repos\\sabrinaweek1\\sabrinaweek1\\sabrinaweek1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C0FEC0-6745-4A22-B560-14E278E80856}|SabrinaWeek1\\Homework.csproj|solutionrelative:sabrinaweek1\\sabrinaweek1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SabrinaWeek1.cs",
+              "DocumentMoniker": "C:\\Users\\v-wwanmohdna\\source\\repos\\SabrinaWeek1\\SabrinaWeek1\\SabrinaWeek1.cs",
+              "RelativeDocumentMoniker": "SabrinaWeek1\\SabrinaWeek1.cs",
+              "ToolTip": "C:\\Users\\v-wwanmohdna\\source\\repos\\SabrinaWeek1\\SabrinaWeek1\\SabrinaWeek1.cs",
+              "RelativeToolTip": "SabrinaWeek1\\SabrinaWeek1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:37:10.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
