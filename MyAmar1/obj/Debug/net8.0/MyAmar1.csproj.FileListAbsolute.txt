@@ -1,0 +1,15 @@
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\bin\Debug\net8.0\MyAmar1.exe
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\bin\Debug\net8.0\MyAmar1.deps.json
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\bin\Debug\net8.0\MyAmar1.runtimeconfig.json
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\bin\Debug\net8.0\MyAmar1.dll
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\bin\Debug\net8.0\MyAmar1.pdb
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.AssemblyInfoInputs.cache
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.AssemblyInfo.cs
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.csproj.CoreCompileInputs.cache
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.sourcelink.json
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.dll
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\refint\MyAmar1.dll
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.pdb
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\MyAmar1.genruntimeconfig.cache
+C:\Users\v-amarnathms\Desktop\MY_C-_Practise\week1\MY_C-_Practise\MyAmar1\obj\Debug\net8.0\ref\MyAmar1.dll
