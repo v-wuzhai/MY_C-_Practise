@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FARIS WEEK 1 (PRINT MOTTO)/1.0.0": {
+        "runtime": {
+          "FARIS WEEK 1 (PRINT MOTTO).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FARIS WEEK 1 (PRINT MOTTO)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

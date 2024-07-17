@@ -1,0 +1,15 @@
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\bin\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).exe
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\bin\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).deps.json
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\bin\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).runtimeconfig.json
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\bin\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).dll
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\bin\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).pdb
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).AssemblyInfoInputs.cache
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).AssemblyInfo.cs
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).csproj.CoreCompileInputs.cache
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).sourcelink.json
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).dll
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\refint\FARIS WEEK 1 (PRINT MOTTO).dll
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).pdb
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\FARIS WEEK 1 (PRINT MOTTO).genruntimeconfig.cache
+C:\Users\v-mufauzi\source\repos\MY_C-_Practise\FARIS_WEEK_1\FARIS WEEK 1 (PRINT MOTTO)\FARIS WEEK 1 (PRINT MOTTO)\obj\Debug\net8.0\ref\FARIS WEEK 1 (PRINT MOTTO).dll
