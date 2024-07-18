@@ -1,0 +1,15 @@
+C:\Users\v-livjiaxian\homeworkRepo\liv\bin\Debug\net9.0\liv.exe
+C:\Users\v-livjiaxian\homeworkRepo\liv\bin\Debug\net9.0\liv.deps.json
+C:\Users\v-livjiaxian\homeworkRepo\liv\bin\Debug\net9.0\liv.runtimeconfig.json
+C:\Users\v-livjiaxian\homeworkRepo\liv\bin\Debug\net9.0\liv.dll
+C:\Users\v-livjiaxian\homeworkRepo\liv\bin\Debug\net9.0\liv.pdb
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.AssemblyInfoInputs.cache
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.AssemblyInfo.cs
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.csproj.CoreCompileInputs.cache
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.sourcelink.json
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.dll
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\refint\liv.dll
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.pdb
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\liv.genruntimeconfig.cache
+C:\Users\v-livjiaxian\homeworkRepo\liv\obj\Debug\net9.0\ref\liv.dll
