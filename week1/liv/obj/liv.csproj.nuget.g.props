@@ -13,7 +13,4 @@
     <SourceRoot Include="C:\Users\v-livjiaxian\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.net.compilers.toolset.framework\4.11.0-3.24324.9\build\Microsoft.Net.Compilers.Toolset.Framework.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.compilers.toolset.framework\4.11.0-3.24324.9\build\Microsoft.Net.Compilers.Toolset.Framework.props')" />
-  </ImportGroup>
 </Project>
