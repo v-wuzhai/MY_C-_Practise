@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-abinazmi\\MY_C-_Practise\\week1\\atif_MY_C-_Practise\\week1\\Moto\\Moto.csproj",
+      "projectUniqueName": "C:\\Users\\v-abinazmi\\MY_C-_Practise\\week1\\atif_MY_C-_Practise\\Moto\\Moto.csproj",
       "projectName": "Moto",
-      "projectPath": "C:\\Users\\v-abinazmi\\MY_C-_Practise\\week1\\atif_MY_C-_Practise\\week1\\Moto\\Moto.csproj",
+      "projectPath": "C:\\Users\\v-abinazmi\\MY_C-_Practise\\week1\\atif_MY_C-_Practise\\Moto\\Moto.csproj",
       "packagesPath": "C:\\Users\\v-abinazmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-abinazmi\\MY_C-_Practise\\week1\\atif_MY_C-_Practise\\week1\\Moto\\obj\\",
+      "outputPath": "C:\\Users\\v-abinazmi\\MY_C-_Practise\\week1\\atif_MY_C-_Practise\\Moto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-abinazmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
