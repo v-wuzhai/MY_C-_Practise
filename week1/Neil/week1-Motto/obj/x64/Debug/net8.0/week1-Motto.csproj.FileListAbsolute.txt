@@ -1,0 +1,15 @@
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\bin\x64\Debug\net8.0\week1-Motto.exe
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\bin\x64\Debug\net8.0\week1-Motto.deps.json
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\bin\x64\Debug\net8.0\week1-Motto.runtimeconfig.json
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\bin\x64\Debug\net8.0\week1-Motto.dll
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\bin\x64\Debug\net8.0\week1-Motto.pdb
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.AssemblyInfoInputs.cache
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.AssemblyInfo.cs
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.csproj.CoreCompileInputs.cache
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.sourcelink.json
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.dll
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\refint\week1-Motto.dll
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.pdb
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\week1-Motto.genruntimeconfig.cache
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week1\Neil\week1-Motto\obj\x64\Debug\net8.0\ref\week1-Motto.dll
