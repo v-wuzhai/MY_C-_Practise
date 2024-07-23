@@ -1,0 +1,15 @@
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\bin\x64\Debug\net8.0\Tham.exe
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\bin\x64\Debug\net8.0\Tham.deps.json
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\bin\x64\Debug\net8.0\Tham.runtimeconfig.json
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\bin\x64\Debug\net8.0\Tham.dll
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\bin\x64\Debug\net8.0\Tham.pdb
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.AssemblyInfoInputs.cache
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.AssemblyInfo.cs
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.csproj.CoreCompileInputs.cache
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.sourcelink.json
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.dll
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\refint\Tham.dll
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.pdb
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\Tham.genruntimeconfig.cache
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week1\Tham\obj\x64\Debug\net8.0\ref\Tham.dll
