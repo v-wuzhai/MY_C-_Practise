@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-amarnathms\\Desktop\\MY_C-_Practise\\week1\\MY_C-_Practise\\MyAmar1\\MyAmar1.csproj": {}
+    "C:\\Users\\v-amarnathms\\Documents\\new1\\MY_C-_Practise\\week1\\Amarnath\\MyAmar1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-amarnathms\\Desktop\\MY_C-_Practise\\week1\\MY_C-_Practise\\MyAmar1\\MyAmar1.csproj": {
+    "C:\\Users\\v-amarnathms\\Documents\\new1\\MY_C-_Practise\\week1\\Amarnath\\MyAmar1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-amarnathms\\Desktop\\MY_C-_Practise\\week1\\MY_C-_Practise\\MyAmar1\\MyAmar1.csproj",
+        "projectUniqueName": "C:\\Users\\v-amarnathms\\Documents\\new1\\MY_C-_Practise\\week1\\Amarnath\\MyAmar1.csproj",
         "projectName": "MyAmar1",
-        "projectPath": "C:\\Users\\v-amarnathms\\Desktop\\MY_C-_Practise\\week1\\MY_C-_Practise\\MyAmar1\\MyAmar1.csproj",
+        "projectPath": "C:\\Users\\v-amarnathms\\Documents\\new1\\MY_C-_Practise\\week1\\Amarnath\\MyAmar1.csproj",
         "packagesPath": "C:\\Users\\v-amarnathms\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-amarnathms\\Desktop\\MY_C-_Practise\\week1\\MY_C-_Practise\\MyAmar1\\obj\\",
+        "outputPath": "C:\\Users\\v-amarnathms\\Documents\\new1\\MY_C-_Practise\\week1\\Amarnath\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-amarnathms\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
