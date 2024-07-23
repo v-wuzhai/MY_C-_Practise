@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAmar1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d27315daacc808646ab05a43702d8d4a95692841")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f883bdc001976bfcbcf9193499b4c42859b39e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAmar1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAmar1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
