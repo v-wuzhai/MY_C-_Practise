@@ -1,0 +1,2 @@
+This is a homework for week 1 C# project. If you run this code, the output will shows a few sentences that use method like Trim, Replace, ToLower.
+It also answer some questions like Contains() to ask the string whether it has a certain word, Length() to know how many words in string, and StartsWith() to ask if the string starts with given word.

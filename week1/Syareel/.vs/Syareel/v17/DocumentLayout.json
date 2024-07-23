@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week1\\Syareel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA97800B-4B71-4365-B801-5E2DB0ACED56}|Syareel.csproj|c:\\users\\v-smdsukeri\\desktop\\my_c-_practise\\week1\\syareel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA97800B-4B71-4365-B801-5E2DB0ACED56}|Syareel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA97800B-4B71-4365-B801-5E2DB0ACED56}|Syareel.csproj|c:\\users\\v-smdsukeri\\desktop\\my_c-_practise\\week1\\syareel\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BA97800B-4B71-4365-B801-5E2DB0ACED56}|Syareel.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week1\\Syareel\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week1\\Syareel\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-22T07:37:13.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week1\\Syareel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week1\\Syareel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:06:19.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
