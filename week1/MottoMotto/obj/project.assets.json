@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-syahmies\\MY_C-_Practise\\week1\\mie_MY_C-_Practise\\MottoMotto\\MottoMotto.csproj",
+      "projectUniqueName": "C:\\Users\\v-syahmies\\mie_MY_C-_Practise\\week1\\MottoMotto\\MottoMotto.csproj",
       "projectName": "MottoMotto",
-      "projectPath": "C:\\Users\\v-syahmies\\MY_C-_Practise\\week1\\mie_MY_C-_Practise\\MottoMotto\\MottoMotto.csproj",
+      "projectPath": "C:\\Users\\v-syahmies\\mie_MY_C-_Practise\\week1\\MottoMotto\\MottoMotto.csproj",
       "packagesPath": "C:\\Users\\v-syahmies\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-syahmies\\MY_C-_Practise\\week1\\mie_MY_C-_Practise\\MottoMotto\\obj\\",
+      "outputPath": "C:\\Users\\v-syahmies\\mie_MY_C-_Practise\\week1\\MottoMotto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-syahmies\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,16 +59,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.7, 8.0.7]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.7, 8.0.7]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
