@@ -18,22 +18,6 @@ class Program{
                 System.Console.WriteLine("Week 1 Assignment");
                 Week1Assignment();
                 break;
-            case "week2":
-                System.Console.WriteLine("Week 2 Assignment");
-                Week2Assignment();
-                break;
-            case "week3":
-                System.Console.WriteLine("Week 3 Assignment");
-                Week3Assignment();
-                break;
-            case "week4":
-                System.Console.WriteLine("Week 4 Assignment");
-                Week4Assignment();
-                break;
-            case "week5":
-                System.Console.WriteLine("Week 5 Assignment");
-                Week5Assignment();
-                break;
             default:
                 System.Console.WriteLine("Invalid input given");
                 break;
