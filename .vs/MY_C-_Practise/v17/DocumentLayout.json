@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\FARIS WEEK 1 (PRINT MOTTO)\\README_WEEK.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FARIS WEEK 1 (PRINT MOTTO)\\README_WEEK.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\FARIS WEEK 1 (PRINT MOTTO)\\FARIS WEEK 1 (PRINT MOTTO)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FARIS WEEK 1 (PRINT MOTTO)\\FARIS WEEK 1 (PRINT MOTTO)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\FARIS WEEK 1 (PRINT MOTTO)\\FARIS WEEK 1 (PRINT MOTTO)\\Program.cs",
+              "RelativeDocumentMoniker": "FARIS WEEK 1 (PRINT MOTTO)\\FARIS WEEK 1 (PRINT MOTTO)\\Program.cs",
+              "ToolTip": "C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\FARIS WEEK 1 (PRINT MOTTO)\\FARIS WEEK 1 (PRINT MOTTO)\\Program.cs",
+              "RelativeToolTip": "FARIS WEEK 1 (PRINT MOTTO)\\FARIS WEEK 1 (PRINT MOTTO)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:47:06.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README_WEEK.md",
+              "DocumentMoniker": "C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\FARIS WEEK 1 (PRINT MOTTO)\\README_WEEK.md",
+              "RelativeDocumentMoniker": "FARIS WEEK 1 (PRINT MOTTO)\\README_WEEK.md",
+              "ToolTip": "C:\\Users\\v-mufauzi\\source\\repos\\MY_C-_Practise\\FARIS WEEK 1 (PRINT MOTTO)\\README_WEEK.md",
+              "RelativeToolTip": "FARIS WEEK 1 (PRINT MOTTO)\\README_WEEK.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-23T01:46:24.791Z",
+              "EditorCaption": ""
             }
           ]
         }

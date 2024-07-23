@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FARIS WEEK 1 (PRINT MOTTO)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+544c2852e8966e3cd19bec5c65d4cb844aa43a14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4390a9f4ade10711bbf50dc7e4df6e3e77106069")]
 [assembly: System.Reflection.AssemblyProductAttribute("FARIS WEEK 1 (PRINT MOTTO)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FARIS WEEK 1 (PRINT MOTTO)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
