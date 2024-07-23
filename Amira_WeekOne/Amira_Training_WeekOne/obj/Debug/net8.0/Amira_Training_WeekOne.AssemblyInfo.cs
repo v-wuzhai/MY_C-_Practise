@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amira_Training_WeekOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29dcfde7ec047e3c305038553891f1dfaa69e9d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5711d8f0b43a9d90e11bf5900f467b1a709d5dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amira_Training_WeekOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amira_Training_WeekOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
