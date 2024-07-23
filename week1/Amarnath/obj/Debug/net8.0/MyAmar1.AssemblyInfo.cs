@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAmar1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63eec5678105334284b75ca7e5ad1eb065cc5616")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64e6529f656157a652f640e277446abb403a246c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAmar1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAmar1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
