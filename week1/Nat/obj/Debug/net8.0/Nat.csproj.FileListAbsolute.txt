@@ -1,0 +1,15 @@
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\bin\Debug\net8.0\Nat.exe
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\bin\Debug\net8.0\Nat.deps.json
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\bin\Debug\net8.0\Nat.runtimeconfig.json
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\bin\Debug\net8.0\Nat.dll
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\bin\Debug\net8.0\Nat.pdb
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.AssemblyInfoInputs.cache
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.AssemblyInfo.cs
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.csproj.CoreCompileInputs.cache
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.sourcelink.json
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.dll
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\refint\Nat.dll
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.pdb
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\Nat.genruntimeconfig.cache
+C:\Users\v-abintijaaf\MY_C-_Practise\week1\Nat\obj\Debug\net8.0\ref\Nat.dll
