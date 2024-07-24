@@ -1,0 +1,14 @@
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\bin\Debug\net8.0\Week1_Amirul_Aiman.exe
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\bin\Debug\net8.0\Week1_Amirul_Aiman.deps.json
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\bin\Debug\net8.0\Week1_Amirul_Aiman.runtimeconfig.json
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\bin\Debug\net8.0\Week1_Amirul_Aiman.dll
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\bin\Debug\net8.0\Week1_Amirul_Aiman.pdb
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.AssemblyInfoInputs.cache
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.AssemblyInfo.cs
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.csproj.CoreCompileInputs.cache
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.dll
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\refint\Week1_Amirul_Aiman.dll
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.pdb
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\Week1_Amirul_Aiman.genruntimeconfig.cache
+C:\Users\v-amirulaidi\source\repos\Week1_Amirul_Aiman\Week1_Amirul_Aiman\obj\Debug\net8.0\ref\Week1_Amirul_Aiman.dll
