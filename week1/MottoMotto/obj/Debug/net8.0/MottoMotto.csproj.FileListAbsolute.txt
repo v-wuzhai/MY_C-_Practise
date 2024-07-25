@@ -1,0 +1,15 @@
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\bin\Debug\net8.0\MottoMotto.exe
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\bin\Debug\net8.0\MottoMotto.deps.json
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\bin\Debug\net8.0\MottoMotto.runtimeconfig.json
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\bin\Debug\net8.0\MottoMotto.dll
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\bin\Debug\net8.0\MottoMotto.pdb
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.AssemblyInfoInputs.cache
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.AssemblyInfo.cs
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.csproj.CoreCompileInputs.cache
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.sourcelink.json
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.dll
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\refint\MottoMotto.dll
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.pdb
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\MottoMotto.genruntimeconfig.cache
+C:\Users\v-syahmies\MY_C-_Practise\week1\mie_MY_C-_Practise\MottoMotto\obj\Debug\net8.0\ref\MottoMotto.dll
