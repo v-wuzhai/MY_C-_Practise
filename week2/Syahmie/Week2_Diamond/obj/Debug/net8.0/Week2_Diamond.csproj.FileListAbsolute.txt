@@ -1,0 +1,15 @@
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.AssemblyInfoInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.AssemblyInfo.cs
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.sourcelink.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\bin\Debug\net8.0\Week2_Diamond.exe
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\bin\Debug\net8.0\Week2_Diamond.deps.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\bin\Debug\net8.0\Week2_Diamond.runtimeconfig.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\bin\Debug\net8.0\Week2_Diamond.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\bin\Debug\net8.0\Week2_Diamond.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\refint\Week2_Diamond.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\Week2_Diamond.genruntimeconfig.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_Diamond\obj\Debug\net8.0\ref\Week2_Diamond.dll
