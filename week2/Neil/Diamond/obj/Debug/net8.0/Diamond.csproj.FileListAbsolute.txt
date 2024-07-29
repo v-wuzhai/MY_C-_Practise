@@ -1,0 +1,15 @@
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfo.cs
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.sourcelink.json
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\bin\Debug\net8.0\Diamond.exe
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\bin\Debug\net8.0\Diamond.deps.json
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\bin\Debug\net8.0\Diamond.runtimeconfig.json
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\bin\Debug\net8.0\Diamond.dll
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\bin\Debug\net8.0\Diamond.pdb
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.dll
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\refint\Diamond.dll
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.pdb
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\Diamond.genruntimeconfig.cache
+C:\Users\v-neilchua\Desktop\idk_MY_C-_Practise\week2\Neil\Diamond\obj\Debug\net8.0\ref\Diamond.dll
