@@ -48,7 +48,7 @@ namespace calculator_c_sharp
 				Console.Write("Do you want to continue(y/n):");
 				value = Console.ReadLine();
 			}
-			while (value=="y" || value=="Y");a
+			while (value=="y" || value=="Y");
 			
 		}
 	}
