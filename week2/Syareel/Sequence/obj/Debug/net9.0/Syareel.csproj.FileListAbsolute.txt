@@ -1,0 +1,15 @@
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\bin\Debug\net9.0\Syareel.exe
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\bin\Debug\net9.0\Syareel.deps.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\bin\Debug\net9.0\Syareel.runtimeconfig.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\bin\Debug\net9.0\Syareel.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\bin\Debug\net9.0\Syareel.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.AssemblyInfoInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.AssemblyInfo.cs
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.csproj.CoreCompileInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.sourcelink.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\refint\Syareel.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\Syareel.genruntimeconfig.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\obj\Debug\net9.0\ref\Syareel.dll
