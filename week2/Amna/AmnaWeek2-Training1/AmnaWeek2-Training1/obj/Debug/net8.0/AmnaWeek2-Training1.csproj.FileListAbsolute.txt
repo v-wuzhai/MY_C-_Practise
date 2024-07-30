@@ -1,0 +1,14 @@
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\bin\Debug\net8.0\AmnaWeek2-Training1.exe
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\bin\Debug\net8.0\AmnaWeek2-Training1.deps.json
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\bin\Debug\net8.0\AmnaWeek2-Training1.runtimeconfig.json
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\bin\Debug\net8.0\AmnaWeek2-Training1.dll
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\bin\Debug\net8.0\AmnaWeek2-Training1.pdb
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.AssemblyInfoInputs.cache
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.AssemblyInfo.cs
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.csproj.CoreCompileInputs.cache
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.dll
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\refint\AmnaWeek2-Training1.dll
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.pdb
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\AmnaWeek2-Training1.genruntimeconfig.cache
+C:\Users\v-amnasha\source\repos\AmnaWeek2-Training1\AmnaWeek2-Training1\obj\Debug\net8.0\ref\AmnaWeek2-Training1.dll
