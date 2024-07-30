@@ -1,0 +1,14 @@
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2_Diamond.exe
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2_Diamond.deps.json
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2_Diamond.runtimeconfig.json
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2_Diamond.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2_Diamond.pdb
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.AssemblyInfoInputs.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.AssemblyInfo.cs
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\refint\HasyaWeek2_Diamond.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.pdb
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2_Diamond.genruntimeconfig.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\ref\HasyaWeek2_Diamond.dll
