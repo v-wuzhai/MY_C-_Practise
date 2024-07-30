@@ -13,7 +13,7 @@ namespace calculator_c_sharp
 			string value;
 			do
 			{
-				int res;
+				double res;
 				Console.Write("Enter first number:");
 				int num1 = Convert.ToInt32(Console.ReadLine());
 				Console.Write("Enter second number:");
@@ -37,12 +37,13 @@ namespace calculator_c_sharp
 						Console.WriteLine("Multiplication:" + res);
 						break;
 					case "/":
-						res = num1 / num2;
+						res = (double)num1 / num2;
 						Console.WriteLine("Division:" + res);
 						break;
 					default:
 						Console.WriteLine("Wrong input");
 						break;
+					
 				}
 				
 				Console.Write("Do you want to continue(y/n):");
