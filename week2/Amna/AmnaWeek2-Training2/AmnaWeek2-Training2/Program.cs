@@ -24,7 +24,7 @@ namespace DiamondPattern
                 }
                 else
                 {
-                    Console.WriteLine("Please enter a valid positive number.");
+                    Console.WriteLine("Please enter a valid number.");
                 }
 
                 Console.WriteLine("Do you want to enter another number? (1 for yes, 2 for no)");
