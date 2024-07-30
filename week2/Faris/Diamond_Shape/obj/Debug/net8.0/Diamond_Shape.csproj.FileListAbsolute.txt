@@ -1,0 +1,14 @@
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\bin\Debug\net8.0\Diamond_Shape.exe
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\bin\Debug\net8.0\Diamond_Shape.deps.json
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\bin\Debug\net8.0\Diamond_Shape.runtimeconfig.json
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\bin\Debug\net8.0\Diamond_Shape.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\bin\Debug\net8.0\Diamond_Shape.pdb
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.AssemblyInfoInputs.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.AssemblyInfo.cs
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.csproj.CoreCompileInputs.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\refint\Diamond_Shape.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.pdb
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\Diamond_Shape.genruntimeconfig.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Diamond_Shape\obj\Debug\net8.0\ref\Diamond_Shape.dll
