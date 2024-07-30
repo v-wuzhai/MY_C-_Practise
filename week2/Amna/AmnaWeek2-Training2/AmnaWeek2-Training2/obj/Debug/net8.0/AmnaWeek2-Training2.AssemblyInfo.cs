@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmnaWeek2-Training2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be97413dfd0ba6dcedca480dbf92838c92cbb7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b008f0222ffe0e031afa85247d6bdba3837f0af9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmnaWeek2-Training2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmnaWeek2-Training2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
