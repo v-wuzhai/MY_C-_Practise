@@ -1,0 +1,14 @@
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\bin\Debug\net8.0\CountAndSaySequence.exe
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\bin\Debug\net8.0\CountAndSaySequence.deps.json
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\bin\Debug\net8.0\CountAndSaySequence.runtimeconfig.json
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\bin\Debug\net8.0\CountAndSaySequence.dll
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\bin\Debug\net8.0\CountAndSaySequence.pdb
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.AssemblyInfoInputs.cache
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.AssemblyInfo.cs
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.csproj.CoreCompileInputs.cache
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.dll
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\refint\CountAndSaySequence.dll
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.pdb
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\CountAndSaySequence.genruntimeconfig.cache
+C:\Users\v-wwanmohdna\source\repos\Week2\CountAndSaySequence\obj\Debug\net8.0\ref\CountAndSaySequence.dll

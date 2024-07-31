@@ -1,0 +1,14 @@
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\bin\Debug\net8.0\Diamond.exe
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\bin\Debug\net8.0\Diamond.deps.json
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\bin\Debug\net8.0\Diamond.runtimeconfig.json
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\bin\Debug\net8.0\Diamond.dll
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\bin\Debug\net8.0\Diamond.pdb
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfo.cs
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.dll
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\refint\Diamond.dll
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.pdb
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\Diamond.genruntimeconfig.cache
+C:\Users\v-wwanmohdna\source\repos\Week2\Diamond\obj\Debug\net8.0\ref\Diamond.dll
