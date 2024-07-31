@@ -1,0 +1,15 @@
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\bin\Debug\net8.0\diamond.exe
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\bin\Debug\net8.0\diamond.deps.json
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\bin\Debug\net8.0\diamond.runtimeconfig.json
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\bin\Debug\net8.0\diamond.dll
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\bin\Debug\net8.0\diamond.pdb
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.AssemblyInfoInputs.cache
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.AssemblyInfo.cs
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.sourcelink.json
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.dll
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\refint\diamond.dll
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.pdb
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\diamond.genruntimeconfig.cache
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week2\Amarnath\diamond_exec\obj\Debug\net8.0\ref\diamond.dll

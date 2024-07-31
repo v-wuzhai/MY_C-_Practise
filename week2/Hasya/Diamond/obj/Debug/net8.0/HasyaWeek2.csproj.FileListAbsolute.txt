@@ -1,0 +1,14 @@
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2.exe
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2.deps.json
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2.runtimeconfig.json
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\bin\Debug\net8.0\HasyaWeek2.pdb
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.AssemblyInfoInputs.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.AssemblyInfo.cs
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.csproj.CoreCompileInputs.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\refint\HasyaWeek2.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.pdb
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\HasyaWeek2.genruntimeconfig.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\HasyaWeek2\obj\Debug\net8.0\ref\HasyaWeek2.dll

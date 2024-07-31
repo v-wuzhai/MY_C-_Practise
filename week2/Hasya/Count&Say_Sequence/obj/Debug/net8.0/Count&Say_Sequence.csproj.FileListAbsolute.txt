@@ -1,0 +1,14 @@
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\bin\Debug\net8.0\Count&Say_Sequence.exe
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\bin\Debug\net8.0\Count&Say_Sequence.deps.json
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\bin\Debug\net8.0\Count&Say_Sequence.runtimeconfig.json
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\bin\Debug\net8.0\Count&Say_Sequence.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\bin\Debug\net8.0\Count&Say_Sequence.pdb
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.AssemblyInfoInputs.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.AssemblyInfo.cs
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\refint\Count&Say_Sequence.dll
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.pdb
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\Count&Say_Sequence.genruntimeconfig.cache
+C:\Users\v-nnikmohdfa\source\repos\HasyaWeek2\Count&Say_Sequence\obj\Debug\net8.0\ref\Count&Say_Sequence.dll

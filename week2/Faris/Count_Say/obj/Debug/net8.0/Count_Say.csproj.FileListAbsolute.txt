@@ -1,0 +1,14 @@
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.AssemblyInfoInputs.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.AssemblyInfo.cs
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.csproj.CoreCompileInputs.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\bin\Debug\net8.0\Count_Say.exe
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\bin\Debug\net8.0\Count_Say.deps.json
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\bin\Debug\net8.0\Count_Say.runtimeconfig.json
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\bin\Debug\net8.0\Count_Say.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\bin\Debug\net8.0\Count_Say.pdb
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\refint\Count_Say.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.pdb
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\Count_Say.genruntimeconfig.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_2\Count_Say\obj\Debug\net8.0\ref\Count_Say.dll

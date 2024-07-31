@@ -1,0 +1,15 @@
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\bin\Debug\net8.0\Week2_ConsoleCalculator.exe
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\bin\Debug\net8.0\Week2_ConsoleCalculator.deps.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\bin\Debug\net8.0\Week2_ConsoleCalculator.runtimeconfig.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\bin\Debug\net8.0\Week2_ConsoleCalculator.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\bin\Debug\net8.0\Week2_ConsoleCalculator.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.AssemblyInfo.cs
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.sourcelink.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\refint\Week2_ConsoleCalculator.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\Week2_ConsoleCalculator.genruntimeconfig.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_ConsoleCalculator\obj\Debug\net8.0\ref\Week2_ConsoleCalculator.dll
