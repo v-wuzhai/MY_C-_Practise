@@ -4,7 +4,8 @@ class Program
 {
     static void Main()
     {
-        int n = 4;
+        Console.WriteLine("Enter the number of rows: ");
+        int n = Convert.ToInt32(Console.ReadLine());
         PrintDiamond(n);
     }
 
