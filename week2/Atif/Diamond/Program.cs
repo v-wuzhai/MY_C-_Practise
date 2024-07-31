@@ -4,7 +4,8 @@ class Diamond
 {
     static void Main(string[] arcs)
     {
-        int n = 4;
+        Console.Write("Enter the number of rows for the diamond: ");
+		int n = Convert.ToInt32(Console.ReadLine());
         
         for (int i = 1; i <= n; i++)
         {
