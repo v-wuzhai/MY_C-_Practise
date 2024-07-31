@@ -1,0 +1,15 @@
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\bin\Debug\net8.0\Moto.exe
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\bin\Debug\net8.0\Moto.deps.json
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\bin\Debug\net8.0\Moto.runtimeconfig.json
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\bin\Debug\net8.0\Moto.dll
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\bin\Debug\net8.0\Moto.pdb
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.AssemblyInfoInputs.cache
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.AssemblyInfo.cs
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.csproj.CoreCompileInputs.cache
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.sourcelink.json
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.dll
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\refint\Moto.dll
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.pdb
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\Moto.genruntimeconfig.cache
+C:\Users\v-abinazmi\MY_C-_Practise\week1\atif_MY_C-_Practise\Moto\obj\Debug\net8.0\ref\Moto.dll

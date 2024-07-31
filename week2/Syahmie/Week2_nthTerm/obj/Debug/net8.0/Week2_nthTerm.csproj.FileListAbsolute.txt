@@ -1,0 +1,15 @@
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\bin\Debug\net8.0\Week2_nthTerm.exe
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\bin\Debug\net8.0\Week2_nthTerm.deps.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\bin\Debug\net8.0\Week2_nthTerm.runtimeconfig.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\bin\Debug\net8.0\Week2_nthTerm.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\bin\Debug\net8.0\Week2_nthTerm.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.AssemblyInfoInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.AssemblyInfo.cs
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.csproj.CoreCompileInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.sourcelink.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\refint\Week2_nthTerm.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\Week2_nthTerm.genruntimeconfig.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week2\Syahmie\Week2_nthTerm\obj\Debug\net8.0\ref\Week2_nthTerm.dll

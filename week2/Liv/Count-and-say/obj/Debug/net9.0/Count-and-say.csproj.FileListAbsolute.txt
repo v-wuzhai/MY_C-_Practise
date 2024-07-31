@@ -1,0 +1,15 @@
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.AssemblyInfoInputs.cache
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.AssemblyInfo.cs
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.csproj.CoreCompileInputs.cache
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.sourcelink.json
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\bin\Debug\net9.0\Count-and-say.exe
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\bin\Debug\net9.0\Count-and-say.deps.json
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\bin\Debug\net9.0\Count-and-say.runtimeconfig.json
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\bin\Debug\net9.0\Count-and-say.dll
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\bin\Debug\net9.0\Count-and-say.pdb
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.dll
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\refint\Count-and-say.dll
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.pdb
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\Count-and-say.genruntimeconfig.cache
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Count-and-say\obj\Debug\net9.0\ref\Count-and-say.dll

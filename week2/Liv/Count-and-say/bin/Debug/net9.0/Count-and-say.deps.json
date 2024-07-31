@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Count-and-say/1.0.0": {
+        "runtime": {
+          "Count-and-say.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count-and-say/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

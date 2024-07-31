@@ -1,0 +1,15 @@
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\bin\Debug\net9.0\Diamond.exe
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\bin\Debug\net9.0\Diamond.deps.json
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\bin\Debug\net9.0\Diamond.runtimeconfig.json
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\bin\Debug\net9.0\Diamond.dll
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\bin\Debug\net9.0\Diamond.pdb
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.AssemblyInfo.cs
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.sourcelink.json
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.dll
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\refint\Diamond.dll
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.pdb
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\Diamond.genruntimeconfig.cache
+C:\Users\v-livjiaxian\homeworkRepo\week2\Liv\Diamond\obj\Debug\net9.0\ref\Diamond.dll
