@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Syareel Sequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be97413dfd0ba6dcedca480dbf92838c92cbb7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aac2cc6a7d289a356577477fad59c7aa8d62341")]
 [assembly: System.Reflection.AssemblyProductAttribute("Syareel Sequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Syareel Sequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

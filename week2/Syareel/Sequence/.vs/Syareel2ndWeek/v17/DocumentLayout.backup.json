@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{13557D8C-A8D1-47DE-B9CC-34DE9F1ACCED}|Syareel Sequence.csproj|c:\\users\\v-smdsukeri\\desktop\\my_c-_practise\\week2\\syareel\\sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13557D8C-A8D1-47DE-B9CC-34DE9F1ACCED}|Syareel Sequence.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13557D8C-A8D1-47DE-B9CC-34DE9F1ACCED}|Syareel Sequence.csproj|c:\\users\\v-smdsukeri\\desktop\\my_c-_practise\\week2\\syareel\\sequence\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{13557D8C-A8D1-47DE-B9CC-34DE9F1ACCED}|Syareel Sequence.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week2\\Syareel\\Sequence\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week2\\Syareel\\Sequence\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-30T07:22:43.887Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week2\\Syareel\\Sequence\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwDMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T07:20:40.09Z",
               "EditorCaption": ""

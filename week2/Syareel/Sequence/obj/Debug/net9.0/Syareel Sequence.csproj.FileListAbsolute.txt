@@ -28,3 +28,18 @@ C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Sequence\obj\Deb
 C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Sequence\obj\Debug\net9.0\Syareel Sequence.pdb
 C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Sequence\obj\Debug\net9.0\Syareel Sequence.genruntimeconfig.cache
 C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Sequence\obj\Debug\net9.0\ref\Syareel Sequence.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\bin\Debug\net9.0\Syareel Sequence.exe
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\bin\Debug\net9.0\Syareel Sequence.deps.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\bin\Debug\net9.0\Syareel Sequence.runtimeconfig.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\bin\Debug\net9.0\Syareel Sequence.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\bin\Debug\net9.0\Syareel Sequence.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.AssemblyInfoInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.AssemblyInfo.cs
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.csproj.CoreCompileInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.sourcelink.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\refint\Syareel Sequence.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\Syareel Sequence.genruntimeconfig.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel\Sequence\obj\Debug\net9.0\ref\Syareel Sequence.dll

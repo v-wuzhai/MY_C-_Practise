@@ -41,11 +41,19 @@ public class CountAndSay
 
     public static void Main(string[] args)
     {
-        int n = 5;
-        string result = GenerateSequence(n);
-        Console.WriteLine($"The {n}th sequence is: {result}");
+        Console.Write("Enter the number of terms: ");
+        if (int.TryParse(Console.ReadLine(), out int n))
+        {
+            string result = GenerateSequence(n);
+            Console.WriteLine($"The {n}th sequence is: {result}");
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+        }
     }
 }
+
 
 
 
