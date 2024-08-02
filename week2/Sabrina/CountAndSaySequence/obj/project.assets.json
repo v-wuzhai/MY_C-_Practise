@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\CountAndSaySequence\\CountAndSaySequence.csproj",
+      "projectUniqueName": "C:\\MY_C-_Practise\\week2\\Sabrina\\CountAndSaySequence\\CountAndSaySequence.csproj",
       "projectName": "CountAndSaySequence",
-      "projectPath": "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\CountAndSaySequence\\CountAndSaySequence.csproj",
+      "projectPath": "C:\\MY_C-_Practise\\week2\\Sabrina\\CountAndSaySequence\\CountAndSaySequence.csproj",
       "packagesPath": "C:\\Users\\v-wwanmohdna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\CountAndSaySequence\\obj\\",
+      "outputPath": "C:\\MY_C-_Practise\\week2\\Sabrina\\CountAndSaySequence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

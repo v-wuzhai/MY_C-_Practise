@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountAndSaySequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b19c4b959e53a211becf9d0c67ba8c8725fd26dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountAndSaySequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountAndSaySequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

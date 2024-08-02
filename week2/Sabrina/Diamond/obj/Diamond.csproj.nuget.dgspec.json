@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\Diamond\\Diamond.csproj": {}
+    "C:\\MY_C-_Practise\\week2\\Sabrina\\Diamond\\Diamond.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\Diamond\\Diamond.csproj": {
+    "C:\\MY_C-_Practise\\week2\\Sabrina\\Diamond\\Diamond.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\Diamond\\Diamond.csproj",
+        "projectUniqueName": "C:\\MY_C-_Practise\\week2\\Sabrina\\Diamond\\Diamond.csproj",
         "projectName": "Diamond",
-        "projectPath": "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\Diamond\\Diamond.csproj",
+        "projectPath": "C:\\MY_C-_Practise\\week2\\Sabrina\\Diamond\\Diamond.csproj",
         "packagesPath": "C:\\Users\\v-wwanmohdna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-wwanmohdna\\source\\repos\\Week2\\Diamond\\obj\\",
+        "outputPath": "C:\\MY_C-_Practise\\week2\\Sabrina\\Diamond\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
