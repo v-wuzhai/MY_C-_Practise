@@ -1,0 +1,1 @@
+This is a simple app that prints a diamond pattern of "*" based on a given size. You can change the size of diamond by modifying 'n'.

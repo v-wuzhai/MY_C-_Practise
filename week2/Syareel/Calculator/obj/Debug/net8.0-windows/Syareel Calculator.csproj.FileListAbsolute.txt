@@ -1,0 +1,34 @@
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\bin\Debug\net8.0-windows\Syareel Calculator.exe
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\bin\Debug\net8.0-windows\Syareel Calculator.deps.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\bin\Debug\net8.0-windows\Syareel Calculator.runtimeconfig.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\bin\Debug\net8.0-windows\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\bin\Debug\net8.0-windows\Syareel Calculator.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.csproj.GenerateResource.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.AssemblyInfoInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.AssemblyInfo.cs
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.csproj.CoreCompileInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.sourcelink.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\refint\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\Syareel Calculator.genruntimeconfig.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\WinFormsApp1\obj\Debug\net8.0-windows\ref\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\bin\Debug\net8.0-windows\Syareel Calculator.exe
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\bin\Debug\net8.0-windows\Syareel Calculator.deps.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\bin\Debug\net8.0-windows\Syareel Calculator.runtimeconfig.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\bin\Debug\net8.0-windows\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\bin\Debug\net8.0-windows\Syareel Calculator.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.csproj.GenerateResource.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.AssemblyInfoInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.AssemblyInfo.cs
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.csproj.CoreCompileInputs.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.sourcelink.json
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\refint\Syareel Calculator.dll
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.pdb
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\Syareel Calculator.genruntimeconfig.cache
+C:\Users\v-smdsukeri\Desktop\MY_C-_Practise\week2\Syareel Week2\Calculator\obj\Debug\net8.0-windows\ref\Syareel Calculator.dll
