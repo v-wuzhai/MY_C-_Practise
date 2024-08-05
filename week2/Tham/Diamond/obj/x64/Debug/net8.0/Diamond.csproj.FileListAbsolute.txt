@@ -1,0 +1,15 @@
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\bin\x64\Debug\net8.0\Diamond.exe
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\bin\x64\Debug\net8.0\Diamond.deps.json
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\bin\x64\Debug\net8.0\Diamond.runtimeconfig.json
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\bin\x64\Debug\net8.0\Diamond.dll
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\bin\x64\Debug\net8.0\Diamond.pdb
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.AssemblyInfo.cs
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.sourcelink.json
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.dll
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\refint\Diamond.dll
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.pdb
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\Diamond.genruntimeconfig.cache
+C:\Users\vyeszann001\Desktop\MY_C-_Practise\week2\Tham\Diamond\obj\x64\Debug\net8.0\ref\Diamond.dll
