@@ -1,41 +1,35 @@
 ﻿using System;
  
-class DiamondPattern
+class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
-        int n = 4;  // Change this to generate a diamond pattern of a different size
+        Console.Write("Enter the number of rows for the diamond: ");
+        int n = int.Parse(Console.ReadLine());
         PrintDiamond(n);
     }
- 
-    public static void PrintDiamond(int n)
+    static void PrintDiamond(int n)
     {
-        // Print the upper part of the diamond
+        // Print the top half of the diamond
         for (int i = 1; i <= n; i++)
         {
-            for (int j = i; j < n; j++)
-            {
-                Console.Write(" ");
-            }
-            for (int k = 1; k < (i * 2); k++)
-            {
-                Console.Write("*");
-            }
-            Console.WriteLine();
+            PrintLine(n, i);
         }
  
-        // Print the lower part of the diamond
+        // Print the bottom half of the diamond
         for (int i = n - 1; i >= 1; i--)
         {
-            for (int j = n; j > i; j--)
-            {
-                Console.Write(" ");
-            }
-            for (int k = 1; k < (i * 2); k++)
-            {
-                Console.Write("*");
-            }
-            Console.WriteLine();
+            PrintLine(n, i);
         }
+    }
+ 
+    static void PrintLine(int n, int i)
+    {
+        // Print leading spaces
+        Console.Write(new string(' ', n - i));
+        // Print stars
+        Console.Write(new string('*', 2 * i - 1));
+        // Move to the next line
+        Console.WriteLine();
     }
 }
