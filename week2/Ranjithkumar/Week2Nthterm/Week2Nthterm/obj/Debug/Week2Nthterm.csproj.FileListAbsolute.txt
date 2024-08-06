@@ -1,0 +1,7 @@
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\bin\Debug\Week2Nthterm.exe.config
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\bin\Debug\Week2Nthterm.exe
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\bin\Debug\Week2Nthterm.pdb
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\obj\Debug\Week2Nthterm.csproj.AssemblyReference.cache
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\obj\Debug\Week2Nthterm.csproj.CoreCompileInputs.cache
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\obj\Debug\Week2Nthterm.exe
+C:\Users\v-rasaravana\source\repos\Week2Nthterm\Week2Nthterm\obj\Debug\Week2Nthterm.pdb
