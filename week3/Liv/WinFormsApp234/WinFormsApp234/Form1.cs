@@ -17,16 +17,21 @@ namespace WinFormsApp234
             {
                 for (int j = i + 1; j < n; j++)
                 {
+                    if (numbers[i] == 0 || numbers[j] == 0)
+                    {
+                        continue;
+                    }
+
                     if (numbers[i] + numbers[j] == target)
                     {
                         if (numbers[i] < numbers[j])
                         {
-                            return new int[] { numbers[j], numbers[i] };
+                            return new int[] { numbers[i], numbers[j] };
                         }
                         else
                         {
-                            return new int[] { numbers[i], numbers[j] };
-                        }                     
+                            return new int[] { numbers[j], numbers[i] };
+                        }
                     }
                 }
             }
@@ -51,6 +56,9 @@ namespace WinFormsApp234
 
             // Call the TwoSum function
             var result = TwoSum(numbers, target);
+
+            textBox1.Text = "";
+            textBox2.Text = "";
 
             if (result != null)
             {

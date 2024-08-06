@@ -53,25 +53,28 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(22, 52);
+            listBox1.ItemHeight = 25;
+            listBox1.Location = new Point(31, 87);
+            listBox1.Margin = new Padding(4, 5, 4, 5);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(117, 94);
+            listBox1.Size = new Size(165, 154);
             listBox1.TabIndex = 0;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 20);
+            label1.Location = new Point(17, 33);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(0, 15);
+            label1.Size = new Size(0, 25);
             label1.TabIndex = 1;
             // 
             // button1
             // 
-            button1.Location = new Point(98, 23);
+            button1.Location = new Point(140, 38);
+            button1.Margin = new Padding(4, 5, 4, 5);
             button1.Name = "button1";
-            button1.Size = new Size(41, 23);
+            button1.Size = new Size(59, 38);
             button1.TabIndex = 3;
             button1.Text = "Add";
             button1.UseVisualStyleBackColor = true;
@@ -79,10 +82,11 @@
             // 
             // numericUpDown1
             // 
-            numericUpDown1.Location = new Point(22, 22);
-            numericUpDown1.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            numericUpDown1.Location = new Point(31, 37);
+            numericUpDown1.Margin = new Padding(4, 5, 4, 5);
+            numericUpDown1.Maximum = new decimal(new int[] { 1000, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(70, 23);
+            numericUpDown1.Size = new Size(100, 31);
             numericUpDown1.TabIndex = 4;
             numericUpDown1.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
@@ -93,9 +97,11 @@
             groupBox1.Controls.Add(numericUpDown1);
             groupBox1.Controls.Add(listBox1);
             groupBox1.Controls.Add(button1);
-            groupBox1.Location = new Point(18, 20);
+            groupBox1.Location = new Point(26, 33);
+            groupBox1.Margin = new Padding(4, 5, 4, 5);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(164, 184);
+            groupBox1.Padding = new Padding(4, 5, 4, 5);
+            groupBox1.Size = new Size(234, 307);
             groupBox1.TabIndex = 5;
             groupBox1.TabStop = false;
             groupBox1.Text = "Numbers";
@@ -103,9 +109,10 @@
             // button4
             // 
             button4.BackColor = Color.FromArgb(255, 224, 192);
-            button4.Location = new Point(81, 152);
+            button4.Location = new Point(134, 253);
+            button4.Margin = new Padding(4, 5, 4, 5);
             button4.Name = "button4";
-            button4.Size = new Size(58, 23);
+            button4.Size = new Size(62, 38);
             button4.TabIndex = 7;
             button4.Text = "Clear";
             button4.UseVisualStyleBackColor = false;
@@ -114,9 +121,10 @@
             // button2
             // 
             button2.BackColor = Color.FromArgb(255, 192, 192);
-            button2.Location = new Point(22, 152);
+            button2.Location = new Point(31, 253);
+            button2.Margin = new Padding(4, 5, 4, 5);
             button2.Name = "button2";
-            button2.Size = new Size(58, 23);
+            button2.Size = new Size(100, 38);
             button2.TabIndex = 6;
             button2.Text = "Remove";
             button2.UseVisualStyleBackColor = false;
@@ -125,19 +133,22 @@
             // groupBox2
             // 
             groupBox2.Controls.Add(numericUpDown2);
-            groupBox2.Location = new Point(18, 212);
+            groupBox2.Location = new Point(26, 353);
+            groupBox2.Margin = new Padding(4, 5, 4, 5);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(164, 67);
+            groupBox2.Padding = new Padding(4, 5, 4, 5);
+            groupBox2.Size = new Size(234, 112);
             groupBox2.TabIndex = 7;
             groupBox2.TabStop = false;
             groupBox2.Text = "Target";
             // 
             // numericUpDown2
             // 
-            numericUpDown2.Location = new Point(22, 25);
+            numericUpDown2.Location = new Point(31, 42);
+            numericUpDown2.Margin = new Padding(4, 5, 4, 5);
             numericUpDown2.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDown2.Name = "numericUpDown2";
-            numericUpDown2.Size = new Size(116, 23);
+            numericUpDown2.Size = new Size(166, 31);
             numericUpDown2.TabIndex = 8;
             numericUpDown2.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
@@ -147,44 +158,50 @@
             groupBox3.Controls.Add(label3);
             groupBox3.Controls.Add(textBox1);
             groupBox3.Controls.Add(label2);
-            groupBox3.Location = new Point(209, 57);
+            groupBox3.Location = new Point(299, 95);
+            groupBox3.Margin = new Padding(4, 5, 4, 5);
             groupBox3.Name = "groupBox3";
-            groupBox3.Size = new Size(183, 114);
+            groupBox3.Padding = new Padding(4, 5, 4, 5);
+            groupBox3.Size = new Size(261, 190);
             groupBox3.TabIndex = 9;
             groupBox3.TabStop = false;
             groupBox3.Text = "Result";
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(77, 72);
+            textBox2.Location = new Point(110, 120);
+            textBox2.Margin = new Padding(4, 5, 4, 5);
             textBox2.Name = "textBox2";
             textBox2.ReadOnly = true;
-            textBox2.Size = new Size(91, 23);
+            textBox2.Size = new Size(128, 31);
             textBox2.TabIndex = 3;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(15, 75);
+            label3.Location = new Point(21, 125);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(51, 15);
+            label3.Size = new Size(79, 25);
             label3.TabIndex = 2;
             label3.Text = "Index 2 :";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(77, 28);
+            textBox1.Location = new Point(110, 47);
+            textBox1.Margin = new Padding(4, 5, 4, 5);
             textBox1.Name = "textBox1";
             textBox1.ReadOnly = true;
-            textBox1.Size = new Size(91, 23);
+            textBox1.Size = new Size(128, 31);
             textBox1.TabIndex = 1;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(15, 31);
+            label2.Location = new Point(21, 52);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(51, 15);
+            label2.Size = new Size(79, 25);
             label2.TabIndex = 0;
             label2.Text = "Index 1 :";
             // 
@@ -192,9 +209,10 @@
             // 
             button3.BackColor = SystemColors.Control;
             button3.Enabled = false;
-            button3.Location = new Point(209, 28);
+            button3.Location = new Point(299, 47);
+            button3.Margin = new Padding(4, 5, 4, 5);
             button3.Name = "button3";
-            button3.Size = new Size(183, 23);
+            button3.Size = new Size(261, 38);
             button3.TabIndex = 0;
             button3.Text = "Find";
             button3.UseVisualStyleBackColor = false;
@@ -202,14 +220,15 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(415, 290);
+            ClientSize = new Size(593, 483);
             Controls.Add(button3);
             Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Controls.Add(label1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
