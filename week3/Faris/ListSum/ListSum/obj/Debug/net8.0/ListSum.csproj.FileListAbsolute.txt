@@ -1,0 +1,14 @@
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\bin\Debug\net8.0\ListSum.exe
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\bin\Debug\net8.0\ListSum.deps.json
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\bin\Debug\net8.0\ListSum.runtimeconfig.json
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\bin\Debug\net8.0\ListSum.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\bin\Debug\net8.0\ListSum.pdb
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.AssemblyInfoInputs.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.AssemblyInfo.cs
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.csproj.CoreCompileInputs.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\refint\ListSum.dll
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.pdb
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ListSum.genruntimeconfig.cache
+C:\Users\v-mufauzi\Desktop\PROJECT C#\FARIS_WEEK_3\ListSum\ListSum\obj\Debug\net8.0\ref\ListSum.dll
