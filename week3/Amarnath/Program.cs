@@ -5,14 +5,14 @@ class Program
 {
     public static List<List<int>> FindAllTwoSums(List<int> numbers, int target)
     {
-        // Create a list of tuples with value and 1-based index
+       
         var indexedNumbers = new List<(int Value, int Index)>();
         for (int i = 0; i < numbers.Count; i++)
         {
             indexedNumbers.Add((numbers[i], i + 1));
         }
 
-        // Sort the list by values
+     
         indexedNumbers.Sort((a, b) => a.Value.CompareTo(b.Value));
 
         var results = new List<List<int>>();
@@ -25,7 +25,7 @@ class Program
             if (currentSum == target)
             {
                 results.Add(new List<int> { indexedNumbers[left].Index, indexedNumbers[right].Index });
-                // Move both pointers to look for other pairs
+            
                 left++;
                 right--;
             }
