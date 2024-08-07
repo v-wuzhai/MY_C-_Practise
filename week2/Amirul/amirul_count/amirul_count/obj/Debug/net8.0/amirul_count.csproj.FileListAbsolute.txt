@@ -1,0 +1,15 @@
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\bin\Debug\net8.0\amirul_count.exe
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\bin\Debug\net8.0\amirul_count.deps.json
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\bin\Debug\net8.0\amirul_count.runtimeconfig.json
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\bin\Debug\net8.0\amirul_count.dll
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\bin\Debug\net8.0\amirul_count.pdb
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.GeneratedMSBuildEditorConfig.editorconfig
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.AssemblyInfoInputs.cache
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.AssemblyInfo.cs
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.csproj.CoreCompileInputs.cache
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.sourcelink.json
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.dll
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\refint\amirul_count.dll
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.pdb
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\amirul_count.genruntimeconfig.cache
+C:\MY_C-_Practise\week2\Amirul\amirul_count\amirul_count\obj\Debug\net8.0\ref\amirul_count.dll
