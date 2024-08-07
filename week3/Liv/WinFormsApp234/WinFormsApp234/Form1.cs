@@ -9,9 +9,10 @@ namespace WinFormsApp234
             InitializeComponent();
         }
 
-        public int[]? TwoSum(int[] numbers, int target)
+        public List<int[]>? TwoSum(int[] numbers, int target)
         {
             int n = numbers.Length;
+            List<int[]> result = new List<int[]>();
 
             for (int i = 0; i < n; i++)
             {
@@ -26,23 +27,28 @@ namespace WinFormsApp234
                     {
                         if (numbers[i] < numbers[j])
                         {
-                            return new int[] { numbers[i], numbers[j] };
+                            result.Add(new int[] { numbers[i], numbers[j] });
                         }
                         else
                         {
-                            return new int[] { numbers[j], numbers[i] };
+                            result.Add(new int[] { numbers[j], numbers[i] });
                         }
                     }
                 }
             }
 
-            MessageBox.Show("Array does not contain have sum for the target value");
-            return null;
+            if (result.Count == 0)
+            {
+                MessageBox.Show("Array does not contain have sum for the target value");
+                return null;
+            }
+
+            return result;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(numericUpDown1.Value);
+            listBox1.Items.Add(numericUpDown1.Value);           
             updateFindButton();
         }
 
@@ -55,17 +61,18 @@ namespace WinFormsApp234
             int target = (int)numericUpDown2.Value;
 
             // Call the TwoSum function
-            var result = TwoSum(numbers, target);
+            var results = TwoSum(numbers, target);
 
-            textBox1.Text = "";
-            textBox2.Text = "";
+            richTextBox1.Text = "";
 
-            if (result != null)
+            if (results != null)
             {
-                textBox1.Text = result[0].ToString();
-                textBox2.Text = result[1].ToString();
+                //update result
+                foreach (var result in results)
+                {
+                    richTextBox1.Text= richTextBox1.Text+$"Index 1 : {result[0]}\nIndex 2 : {result[1]}\n\n";
+                }
             }
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -99,6 +106,14 @@ namespace WinFormsApp234
             {
                 button3.Enabled = false;
                 button3.BackColor = Color.White;
+            }
+        }
+
+        private void numericUpDown1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                button1_Click(sender, e);
             }
         }
     }

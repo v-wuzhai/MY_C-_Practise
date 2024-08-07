@@ -38,10 +38,7 @@
             groupBox2 = new GroupBox();
             numericUpDown2 = new NumericUpDown();
             groupBox3 = new GroupBox();
-            textBox2 = new TextBox();
-            label3 = new Label();
-            textBox1 = new TextBox();
-            label2 = new Label();
+            richTextBox1 = new RichTextBox();
             button3 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             groupBox1.SuspendLayout();
@@ -89,6 +86,7 @@
             numericUpDown1.Size = new Size(100, 31);
             numericUpDown1.TabIndex = 4;
             numericUpDown1.Value = new decimal(new int[] { 1, 0, 0, 0 });
+            numericUpDown1.KeyDown += numericUpDown1_KeyDown;
             // 
             // groupBox1
             // 
@@ -154,56 +152,24 @@
             // 
             // groupBox3
             // 
-            groupBox3.Controls.Add(textBox2);
-            groupBox3.Controls.Add(label3);
-            groupBox3.Controls.Add(textBox1);
-            groupBox3.Controls.Add(label2);
+            groupBox3.Controls.Add(richTextBox1);
             groupBox3.Location = new Point(299, 95);
             groupBox3.Margin = new Padding(4, 5, 4, 5);
             groupBox3.Name = "groupBox3";
             groupBox3.Padding = new Padding(4, 5, 4, 5);
-            groupBox3.Size = new Size(261, 190);
+            groupBox3.Size = new Size(261, 370);
             groupBox3.TabIndex = 9;
             groupBox3.TabStop = false;
             groupBox3.Text = "Result";
             // 
-            // textBox2
+            // richTextBox1
             // 
-            textBox2.Location = new Point(110, 120);
-            textBox2.Margin = new Padding(4, 5, 4, 5);
-            textBox2.Name = "textBox2";
-            textBox2.ReadOnly = true;
-            textBox2.Size = new Size(128, 31);
-            textBox2.TabIndex = 3;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(21, 125);
-            label3.Margin = new Padding(4, 0, 4, 0);
-            label3.Name = "label3";
-            label3.Size = new Size(79, 25);
-            label3.TabIndex = 2;
-            label3.Text = "Index 2 :";
-            // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(110, 47);
-            textBox1.Margin = new Padding(4, 5, 4, 5);
-            textBox1.Name = "textBox1";
-            textBox1.ReadOnly = true;
-            textBox1.Size = new Size(128, 31);
-            textBox1.TabIndex = 1;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(21, 52);
-            label2.Margin = new Padding(4, 0, 4, 0);
-            label2.Name = "label2";
-            label2.Size = new Size(79, 25);
-            label2.TabIndex = 0;
-            label2.Text = "Index 1 :";
+            richTextBox1.BorderStyle = BorderStyle.None;
+            richTextBox1.Location = new Point(17, 32);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(221, 322);
+            richTextBox1.TabIndex = 0;
+            richTextBox1.Text = "";
             // 
             // button3
             // 
@@ -236,7 +202,6 @@
             groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).EndInit();
             groupBox3.ResumeLayout(false);
-            groupBox3.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -254,9 +219,6 @@
         private GroupBox groupBox3;
         private Button button3;
         private Button button4;
-        private Label label2;
-        private TextBox textBox2;
-        private Label label3;
-        private TextBox textBox1;
+        private RichTextBox richTextBox1;
     }
 }
