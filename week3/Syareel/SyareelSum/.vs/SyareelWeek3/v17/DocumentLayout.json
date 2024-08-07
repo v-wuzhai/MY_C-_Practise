@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\v-smdsukeri\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week3\\Syareel\\SyareelSum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\SyareelW3Exercise.csproj|c:\\users\\v-smdsukeri\\source\\repos\\consoleapp1\\consoleapp1\\syareelw3exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\SyareelW3Exercise.csproj|solutionrelative:consoleapp1\\syareelw3exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\SyareelW3Exercise.csproj|c:\\users\\v-smdsukeri\\desktop\\my_c-_practise\\week3\\syareel\\syareelsum\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\SyareelW3Exercise.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\v-smdsukeri\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\SyareelW3Exercise.csproj|c:\\users\\v-smdsukeri\\desktop\\my_c-_practise\\week3\\syareel\\syareelsum\\consoleapp1\\syareelw3exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}|ConsoleApp1\\SyareelW3Exercise.csproj|solutionrelative:consoleapp1\\syareelw3exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SyareelW3Exercise",
-              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\source\\repos\\ConsoleApp1\\ConsoleApp1\\SyareelW3Exercise.csproj",
+              "DocumentIndex": 1,
+              "Title": "SyareelW3Exercise.csproj",
+              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week3\\Syareel\\SyareelSum\\ConsoleApp1\\SyareelW3Exercise.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\SyareelW3Exercise.csproj",
-              "ToolTip": "C:\\Users\\v-smdsukeri\\source\\repos\\ConsoleApp1\\ConsoleApp1\\SyareelW3Exercise.csproj",
+              "ToolTip": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week3\\Syareel\\SyareelSum\\ConsoleApp1\\SyareelW3Exercise.csproj",
               "RelativeToolTip": "ConsoleApp1\\SyareelW3Exercise.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-07T01:32:02.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T01:32:02.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week3\\Syareel\\SyareelSum\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\v-smdsukeri\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\v-smdsukeri\\Desktop\\MY_C-_Practise\\week3\\Syareel\\SyareelSum\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T01:18:34.193Z",
               "EditorCaption": ""

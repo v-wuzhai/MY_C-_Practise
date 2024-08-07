@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyareelW3Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+097d670fed7dbf44d7674c709020e333de690d79")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyareelW3Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyareelW3Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
