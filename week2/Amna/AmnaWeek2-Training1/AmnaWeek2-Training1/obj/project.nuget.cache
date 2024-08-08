@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQF0258hIfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-amnasha\\Source\\Repos\\MY_C-_Practise\\week2\\Amna\\AmnaWeek2-Training1\\AmnaWeek2-Training1\\AmnaWeek2-Training1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-amnasha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\v-amnasha\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\v-amnasha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\v-amnasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

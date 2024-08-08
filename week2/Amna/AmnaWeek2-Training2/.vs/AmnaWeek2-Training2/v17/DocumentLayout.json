@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-amnasha\\source\\repos\\AmnaWeek2-Training2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4955944E-A2F3-41CD-906C-9608097874DC}|AmnaWeek2-Training2\\AmnaWeek2-Training2.csproj|c:\\users\\v-amnasha\\source\\repos\\amnaweek2-training2\\amnaweek2-training2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4955944E-A2F3-41CD-906C-9608097874DC}|AmnaWeek2-Training2\\AmnaWeek2-Training2.csproj|solutionrelative:amnaweek2-training2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4955944E-A2F3-41CD-906C-9608097874DC}|AmnaWeek2-Training2\\AmnaWeek2-Training2.csproj|c:\\users\\v-amnasha\\source\\repos\\amnaweek2-training2\\amnaweek2-training2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4955944E-A2F3-41CD-906C-9608097874DC}|AmnaWeek2-Training2\\AmnaWeek2-Training2.csproj|solutionrelative:amnaweek2-training2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "C:\\Users\\v-amnasha\\source\\repos\\AmnaWeek2-Training2\\AmnaWeek2-Training2\\ReadMe.md",
+              "RelativeDocumentMoniker": "AmnaWeek2-Training2\\ReadMe.md",
+              "ToolTip": "C:\\Users\\v-amnasha\\source\\repos\\AmnaWeek2-Training2\\AmnaWeek2-Training2\\ReadMe.md",
+              "RelativeToolTip": "AmnaWeek2-Training2\\ReadMe.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-30T05:46:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v-amnasha\\source\\repos\\AmnaWeek2-Training2\\AmnaWeek2-Training2\\Program.cs",
+              "RelativeDocumentMoniker": "AmnaWeek2-Training2\\Program.cs",
+              "ToolTip": "C:\\Users\\v-amnasha\\source\\repos\\AmnaWeek2-Training2\\AmnaWeek2-Training2\\Program.cs",
+              "RelativeToolTip": "AmnaWeek2-Training2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T05:45:17.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
