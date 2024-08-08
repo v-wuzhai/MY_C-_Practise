@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35020.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyareelW3Exercise", "ConsoleApp1\SyareelW3Exercise.csproj", "{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109EB251-A7D4-4CA6-8E34-CAD4BB870FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887A7A26-6E72-4311-A8DC-C6CFF81581CC}
+	EndGlobalSection
+EndGlobal
