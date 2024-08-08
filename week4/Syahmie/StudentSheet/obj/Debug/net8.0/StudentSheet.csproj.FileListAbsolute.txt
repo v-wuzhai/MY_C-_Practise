@@ -1,0 +1,15 @@
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\bin\Debug\net8.0\StudentSheet.exe
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\bin\Debug\net8.0\StudentSheet.deps.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\bin\Debug\net8.0\StudentSheet.runtimeconfig.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\bin\Debug\net8.0\StudentSheet.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\bin\Debug\net8.0\StudentSheet.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.AssemblyInfoInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.AssemblyInfo.cs
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.csproj.CoreCompileInputs.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.sourcelink.json
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\refint\StudentSheet.dll
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.pdb
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\StudentSheet.genruntimeconfig.cache
+C:\Users\v-syahmies\mie_MY_C-_Practise\week4\Syahmie\StudentSheet\obj\Debug\net8.0\ref\StudentSheet.dll
