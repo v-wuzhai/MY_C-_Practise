@@ -1,0 +1,14 @@
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\bin\Debug\net8.0\week2-calculator.exe
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\bin\Debug\net8.0\week2-calculator.deps.json
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\bin\Debug\net8.0\week2-calculator.runtimeconfig.json
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\bin\Debug\net8.0\week2-calculator.dll
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\bin\Debug\net8.0\week2-calculator.pdb
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.AssemblyInfoInputs.cache
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.AssemblyInfo.cs
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.csproj.CoreCompileInputs.cache
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.dll
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\refint\week2-calculator.dll
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.pdb
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\week2-calculator.genruntimeconfig.cache
+c:\Users\v-sasahil\Documents\c# homework\week2-calculator\week2-calculator\obj\Debug\net8.0\ref\week2-calculator.dll
