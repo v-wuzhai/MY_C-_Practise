@@ -1,0 +1,7 @@
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\bin\Debug\Week2Diamond.exe.config
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\bin\Debug\Week2Diamond.exe
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\bin\Debug\Week2Diamond.pdb
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\obj\Debug\Week2Diamond.csproj.AssemblyReference.cache
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\obj\Debug\Week2Diamond.csproj.CoreCompileInputs.cache
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\obj\Debug\Week2Diamond.exe
+C:\Users\v-rasaravana\source\repos\Week2Diamond\Week2Diamond\obj\Debug\Week2Diamond.pdb

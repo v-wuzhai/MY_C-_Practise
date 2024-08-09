@@ -1,0 +1,7 @@
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\bin\Debug\Week2ConsoleCalculator.exe.config
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\bin\Debug\Week2ConsoleCalculator.exe
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\bin\Debug\Week2ConsoleCalculator.pdb
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\obj\Debug\Week2ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\obj\Debug\Week2ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\obj\Debug\Week2ConsoleCalculator.exe
+C:\Users\v-rasaravana\source\repos\Week2ConsoleCalculator\Week2ConsoleCalculator\obj\Debug\Week2ConsoleCalculator.pdb
