@@ -1,0 +1,14 @@
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\bin\Debug\net8.0\Week1_Naresh.exe
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\bin\Debug\net8.0\Week1_Naresh.deps.json
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\bin\Debug\net8.0\Week1_Naresh.runtimeconfig.json
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\bin\Debug\net8.0\Week1_Naresh.dll
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\bin\Debug\net8.0\Week1_Naresh.pdb
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.AssemblyInfoInputs.cache
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.AssemblyInfo.cs
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.csproj.CoreCompileInputs.cache
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.dll
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\refint\Week1_Naresh.dll
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.pdb
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\Week1_Naresh.genruntimeconfig.cache
+C:\Users\v-nareshper\source\repos\Week1_Naresh\Week1_Naresh\obj\Debug\net8.0\ref\Week1_Naresh.dll
