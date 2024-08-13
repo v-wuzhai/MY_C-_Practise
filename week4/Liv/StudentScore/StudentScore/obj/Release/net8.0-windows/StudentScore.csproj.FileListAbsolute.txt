@@ -15,8 +15,3 @@ C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\
 C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.pdb
 C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.genruntimeconfig.cache
 C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\ref\StudentScore.dll
-C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.dll.manifest
-C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.application
-C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.genpublishdeps.cache
-C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.dll.manifest
-C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.application

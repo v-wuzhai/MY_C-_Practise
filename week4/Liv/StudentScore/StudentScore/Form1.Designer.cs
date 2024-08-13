@@ -46,7 +46,7 @@
             dataGridView1.Name = "dataGridView1";
             dataGridView1.Size = new Size(594, 344);
             dataGridView1.TabIndex = 0;
-            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+           
             // 
             // filepath
             // 
@@ -54,7 +54,7 @@
             filepath.Name = "filepath";
             filepath.Size = new Size(513, 23);
             filepath.TabIndex = 1;
-            filepath.TextChanged += textBox1_TextChanged;
+            
             // 
             // label1
             // 
@@ -126,7 +126,7 @@
             Controls.Add(dataGridView1);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
+            
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
