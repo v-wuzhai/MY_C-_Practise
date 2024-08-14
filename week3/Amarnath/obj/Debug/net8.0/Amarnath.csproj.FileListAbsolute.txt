@@ -1,0 +1,15 @@
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\bin\Debug\net8.0\Amarnath.exe
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\bin\Debug\net8.0\Amarnath.deps.json
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\bin\Debug\net8.0\Amarnath.runtimeconfig.json
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\bin\Debug\net8.0\Amarnath.dll
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\bin\Debug\net8.0\Amarnath.pdb
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.AssemblyInfoInputs.cache
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.AssemblyInfo.cs
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.csproj.CoreCompileInputs.cache
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.sourcelink.json
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.dll
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\refint\Amarnath.dll
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.pdb
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\Amarnath.genruntimeconfig.cache
+C:\Users\v-amarnathms\Desktop\Github Exercise\MY_C-_Practise\week3\Amarnath\obj\Debug\net8.0\ref\Amarnath.dll

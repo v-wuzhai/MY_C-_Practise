@@ -5,40 +5,28 @@ class Program
 {
     public static List<List<int>> FindAllTwoSums(List<int> numbers, int target)
     {
-       
-        var indexedNumbers = new List<(int Value, int Index)>();
+        var results = new List<List<int>>();
+        var seenNumbers = new Dictionary<int, List<int>>();
+        
         for (int i = 0; i < numbers.Count; i++)
         {
-            indexedNumbers.Add((numbers[i], i + 1));
-        }
-
-     
-        indexedNumbers.Sort((a, b) => a.Value.CompareTo(b.Value));
-
-        var results = new List<List<int>>();
-        int left = 0, right = indexedNumbers.Count - 1;
-
-        while (left < right)
-        {
-            int currentSum = indexedNumbers[left].Value + indexedNumbers[right].Value;
-
-            if (currentSum == target)
-            {
-                results.Add(new List<int> { indexedNumbers[left].Index, indexedNumbers[right].Index });
+            int complement = target - numbers[i];
             
-                left++;
-                right--;
-            }
-            else if (currentSum < target)
+            if (seenNumbers.ContainsKey(complement))
             {
-                left++;
+                foreach (var index in seenNumbers[complement])
+                {
+                    results.Add(new List<int> { index, i + 1 });
+                }
             }
-            else
+            
+            if (!seenNumbers.ContainsKey(numbers[i]))
             {
-                right--;
+                seenNumbers[numbers[i]] = new List<int>();
             }
+            seenNumbers[numbers[i]].Add(i + 1);
         }
-
+        
         return results;
     }
 
