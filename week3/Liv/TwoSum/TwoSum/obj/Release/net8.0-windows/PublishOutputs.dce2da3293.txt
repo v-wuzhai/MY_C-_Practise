@@ -1,0 +1,5 @@
+C:\Users\v-livjiaxian\homework\homeworkRepo\week3\Liv\TwoSum\TwoSum\bin\Release\net8.0-windows\app.publish\TwoSum.exe
+C:\Users\v-livjiaxian\homework\homeworkRepo\week3\Liv\TwoSum\TwoSum\bin\Release\net8.0-windows\app.publish\TwoSum.dll
+C:\Users\v-livjiaxian\homework\homeworkRepo\week3\Liv\TwoSum\TwoSum\bin\Release\net8.0-windows\app.publish\TwoSum.runtimeconfig.json
+C:\Users\v-livjiaxian\homework\homeworkRepo\week3\Liv\TwoSum\TwoSum\bin\Release\net8.0-windows\app.publish\TwoSum.pdb
+C:\Users\v-livjiaxian\homework\homeworkRepo\week3\Liv\TwoSum\TwoSum\bin\Release\net8.0-windows\app.publish\TwoSum.deps.json
