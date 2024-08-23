@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SyareelW3Exercise/1.0.0": {
+        "runtime": {
+          "SyareelW3Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyareelW3Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
