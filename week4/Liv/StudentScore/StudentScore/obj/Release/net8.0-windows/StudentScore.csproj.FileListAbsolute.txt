@@ -1,0 +1,17 @@
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.exe
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.deps.json
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.runtimeconfig.json
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.dll
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\StudentScore.pdb
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.Form1.resources
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.csproj.GenerateResource.cache
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.AssemblyInfoInputs.cache
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.AssemblyInfo.cs
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.csproj.CoreCompileInputs.cache
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.sourcelink.json
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.dll
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\refint\StudentScore.dll
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.pdb
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\StudentScore.genruntimeconfig.cache
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\obj\Release\net8.0-windows\ref\StudentScore.dll

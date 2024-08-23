@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6028A-6698-4845-9DB2-D52DB89BFBBE}|TwoSum\\TwoSum.csproj|c:\\users\\v-livjiaxian\\homework\\homeworkrepo\\week3\\liv\\twosum\\twosum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6028A-6698-4845-9DB2-D52DB89BFBBE}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6028A-6698-4845-9DB2-D52DB89BFBBE}|TwoSum\\TwoSum.csproj|c:\\users\\v-livjiaxian\\homework\\homeworkrepo\\week3\\liv\\twosum\\twosum\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6028A-6698-4845-9DB2-D52DB89BFBBE}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6028A-6698-4845-9DB2-D52DB89BFBBE}|TwoSum\\TwoSum.csproj|C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\twosum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AF6028A-6698-4845-9DB2-D52DB89BFBBE}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\TwoSum\\Form1.cs",
+              "RelativeDocumentMoniker": "TwoSum\\Form1.cs",
+              "ToolTip": "C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\TwoSum\\Form1.cs",
+              "RelativeToolTip": "TwoSum\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:07:28.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\TwoSum\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TwoSum\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\TwoSum\\Form1.Designer.cs",
+              "RelativeToolTip": "TwoSum\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwN0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:07:08.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v-livjiaxian\\homework\\homeworkRepo\\week3\\Liv\\TwoSum\\TwoSum\\Form1.cs",
+              "RelativeDocumentMoniker": "TwoSum\\Form1.cs",
+              "ToolTip": "C:\\Users\\v-livjiaxian\\source\\repos\\TwoSum\\TwoSum\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\TwoSum\\TwoSum\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:06:47.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

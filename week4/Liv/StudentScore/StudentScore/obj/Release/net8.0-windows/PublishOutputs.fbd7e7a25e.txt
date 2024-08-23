@@ -1,0 +1,5 @@
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\app.publish\StudentScore.exe
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\app.publish\StudentScore.dll
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\app.publish\StudentScore.runtimeconfig.json
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\app.publish\StudentScore.pdb
+C:\Users\v-livjiaxian\homework\homeworkRepo\week4\Liv\StudentScore\StudentScore\bin\Release\net8.0-windows\app.publish\StudentScore.deps.json
