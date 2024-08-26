@@ -1,0 +1,14 @@
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\bin\Debug\net8.0\Week 2 -Count and Say.exe
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\bin\Debug\net8.0\Week 2 -Count and Say.deps.json
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\bin\Debug\net8.0\Week 2 -Count and Say.runtimeconfig.json
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\bin\Debug\net8.0\Week 2 -Count and Say.dll
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\bin\Debug\net8.0\Week 2 -Count and Say.pdb
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.AssemblyInfoInputs.cache
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.AssemblyInfo.cs
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.csproj.CoreCompileInputs.cache
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.dll
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\refint\Week 2 -Count and Say.dll
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.pdb
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\Week 2 -Count and Say.genruntimeconfig.cache
+C:\Users\v-arumugamra\source\repos\Week 2 -Count and Say\Week 2 -Count and Say\obj\Debug\net8.0\ref\Week 2 -Count and Say.dll
