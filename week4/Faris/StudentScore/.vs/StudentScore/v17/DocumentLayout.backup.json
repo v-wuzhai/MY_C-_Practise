@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-mufauzi\\Desktop\\PROJECT C#\\FARIS_WEEK_4\\StudentScore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BCE621-7AC6-479C-A164-977DBFA42683}|StudentScore\\StudentScore.csproj|c:\\users\\v-mufauzi\\desktop\\project c#\\faris_week_4\\studentscore\\studentscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BCE621-7AC6-479C-A164-977DBFA42683}|StudentScore\\StudentScore.csproj|solutionrelative:studentscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v-mufauzi\\Desktop\\PROJECT C#\\FARIS_WEEK_4\\StudentScore\\StudentScore\\Program.cs",
+              "RelativeDocumentMoniker": "StudentScore\\Program.cs",
+              "ToolTip": "C:\\Users\\v-mufauzi\\Desktop\\PROJECT C#\\FARIS_WEEK_4\\StudentScore\\StudentScore\\Program.cs*",
+              "RelativeToolTip": "StudentScore\\Program.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:56:16.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
