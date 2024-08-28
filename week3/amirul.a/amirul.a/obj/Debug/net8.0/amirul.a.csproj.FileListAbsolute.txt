@@ -1,0 +1,15 @@
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\bin\Debug\net8.0\amirul.a.exe
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\bin\Debug\net8.0\amirul.a.deps.json
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\bin\Debug\net8.0\amirul.a.runtimeconfig.json
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\bin\Debug\net8.0\amirul.a.dll
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\bin\Debug\net8.0\amirul.a.pdb
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.AssemblyInfoInputs.cache
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.AssemblyInfo.cs
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.csproj.CoreCompileInputs.cache
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.sourcelink.json
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.dll
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\refint\amirul.a.dll
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.pdb
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\amirul.a.genruntimeconfig.cache
+C:\Users\v-amirulaidi\MY_C-_Practise\week3\amirul.a\amirul.a\obj\Debug\net8.0\ref\amirul.a.dll

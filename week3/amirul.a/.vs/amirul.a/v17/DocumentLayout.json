@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-amirulaidi\\MY_C-_Practise\\week3\\amirul.a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC18BE7-6B60-4994-987F-E9C288FB56B5}|amirul.a\\amirul.a.csproj|c:\\users\\v-amirulaidi\\my_c-_practise\\week3\\amirul.a\\amirul.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC18BE7-6B60-4994-987F-E9C288FB56B5}|amirul.a\\amirul.a.csproj|solutionrelative:amirul.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC18BE7-6B60-4994-987F-E9C288FB56B5}|amirul.a\\amirul.a.csproj|c:\\users\\v-amirulaidi\\my_c-_practise\\week3\\amirul.a\\amirul.a\\listtwosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC18BE7-6B60-4994-987F-E9C288FB56B5}|amirul.a\\amirul.a.csproj|solutionrelative:amirul.a\\listtwosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTwoSum.cs",
+              "DocumentMoniker": "C:\\Users\\v-amirulaidi\\MY_C-_Practise\\week3\\amirul.a\\amirul.a\\ListTwoSum.cs",
+              "RelativeDocumentMoniker": "amirul.a\\ListTwoSum.cs",
+              "ToolTip": "C:\\Users\\v-amirulaidi\\MY_C-_Practise\\week3\\amirul.a\\amirul.a\\ListTwoSum.cs",
+              "RelativeToolTip": "amirul.a\\ListTwoSum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:49:07.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v-amirulaidi\\MY_C-_Practise\\week3\\amirul.a\\amirul.a\\Program.cs",
+              "RelativeDocumentMoniker": "amirul.a\\Program.cs",
+              "ToolTip": "C:\\Users\\v-amirulaidi\\MY_C-_Practise\\week3\\amirul.a\\amirul.a\\Program.cs",
+              "RelativeToolTip": "amirul.a\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:47:06.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
