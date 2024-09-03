@@ -6,7 +6,7 @@ using System.Linq;
 public class Student
 {
     public int StudentId { get; set; }
-    public string? Name { get; set; } = string.Empty;
+    public string Name { get; set; } = string.Empty;
     public int MathScore { get; set; }
     public int EnglishScore { get; set; }
     public int ProgrammingScore { get; set; }
@@ -36,7 +36,8 @@ public class FileReader
         try
         {
             // Skip header line
-            foreach (var line in File.ReadLines(_filePath).Skip(1)) 
+            var lines = File.ReadLines(_filePath).Skip(1);
+            foreach (var line in lines)
             {
                 var parts = line.Split(',');
                 if (parts.Length < 5 ||
