@@ -1,0 +1,14 @@
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\bin\Debug\net8.0\Week4.exe
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\bin\Debug\net8.0\Week4.deps.json
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\bin\Debug\net8.0\Week4.runtimeconfig.json
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\bin\Debug\net8.0\Week4.dll
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\bin\Debug\net8.0\Week4.pdb
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.AssemblyInfoInputs.cache
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.AssemblyInfo.cs
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.csproj.CoreCompileInputs.cache
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.dll
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\refint\Week4.dll
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.pdb
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\Week4.genruntimeconfig.cache
+C:\Users\v-ambintiabd\source\repos\Week4\Week4\obj\Debug\net8.0\ref\Week4.dll
